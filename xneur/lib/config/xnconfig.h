@@ -30,7 +30,7 @@
 #define LOCK_NAME			"lock"
 
 #define MAX_NOTIFIES		38
-#define MAX_HOTKEYS			240
+#define MAX_HOTKEYS			24
 
 #include <sys/types.h>
 #define XK_PUBLISHING
